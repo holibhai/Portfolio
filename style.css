@@ -176,17 +176,18 @@ section {
   height: 500px;
   width: 500px;
   margin: auto 0;
-  
+
 }
 
 .section__pic-container img {
   height: 400px;
-  width: 400px; /* Must match height */
-  object-fit:cover;
+  width: 400px;
+  /* Must match height */
+  object-fit: cover;
   background-position: right;
   border-radius: 50%;
-  border:1px solid yellow;
-  
+  border: 1px solid yellow;
+
 }
 
 
@@ -316,11 +317,12 @@ section {
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
-.details-container .des{
+
+.details-container .des {
   font-size: 15px;
   /* color:gray; */
-  
-  
+
+
 }
 
 .section-container {
@@ -361,8 +363,8 @@ section {
   flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
-} 
- 
+}
+
 
 article {
   display: flex;
@@ -385,7 +387,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
   text-align: justify;
-  
+
 }
 
 .project-img {
